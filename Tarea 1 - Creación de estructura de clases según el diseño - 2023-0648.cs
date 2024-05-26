@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Carlos Rodriguez 2023-0648
+
 public abstract class MiembroComunidad
 {
     public int MiembroComunidadid { get; set; }
